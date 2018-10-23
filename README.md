@@ -16,6 +16,9 @@ central europe crypto startup mapping / list
 - simpletax.cz (taxes CR) (Michal Hanych - aj pravnik)
 - bitperia.cz (info aggregator somewhat)
 - coinbank.cz/
+- xixoio.com (Crypto Banking and Tokenization platform)
+- veracityprotcol.org (Lifecycle of Things)
+
 
 ### digital
 - [crypkit](https://www.crypkit.com/) (portfolio tracking and analytics)
@@ -24,13 +27,19 @@ central europe crypto startup mapping / list
 - [Decent](https://decent.ch/) (content distribution blockchain)
 - [SophiaTx](https://www.sophiatx.com/) (SAP blockchain)
 - [Treeti](https://treeti.com/) (netflix on blockchain)
-- [biotron](https://biotron.io/) (your data for sale)
-- [bitpanther](https://www.bitpanther.com/sk/) (exchange)
+- [Biotron](https://biotron.io/) (your data for sale)
+- [Bitpanther](https://www.bitpanther.com/sk/) (exchange)
+- [Eterbase] (https://www.eterbase.com/) (exchange)
+- [Bethereum] (https://www.bethereum.com/) (dapp)
+- [Koud] (http://koud.io/) (blockchain in supply chain)
+- [Alax](https://alax.io/)
+- [Eterbase] (https://www.eterbase.com/) (exchange)
 
 ### coworks & communities
-- [Blockchain Slovakia](https://blockchainslovakia.sk) (non-profit, meetupy)
+- [Blockchain Slovakia](https://blockchainslovakia.sk) (non-profit, meetupy & education)
 - [Cowork Progressbar](https://cowork.progressbar.sk/#/)
 - [Parelelna Polis](https://paralelnapolis.sk/)
+- [Blockchain Republic] (https://www.blockchainrepublic.cz/) (CZ non-profit)
 
 ### digital
 - [coinexplorer](https://coinexplorer.sk/) (education website)
@@ -39,10 +48,6 @@ central europe crypto startup mapping / list
 - [ventu](https://ventu.io/)
 - [http://mojbitcoin.sk/](http://mojbitcoin.sk/) (atm)
 - [cryptodiggers.eu](https://cryptodiggers.eu/) (atms)
-
-### ico (HQ)
-- [alax](https://alax.io/)
-- [bethereum](https://bethereum.com/)
 
 ### locals in foreign startups
 - district0x (Matus Lestan)
@@ -53,6 +58,7 @@ central europe crypto startup mapping / list
 - [01cryptohouse](https://www.01cryptohouse.com/)
 - [blockUnison](https://blockunison.com/)
 - [intellicagroup](https://intellicagroup.com/)
+- [topmonks] (https://www.topmonks.com/)
 
 # Austria 
 - [Bitpanda](https://www.bitpanda.com/en) (buy/sell crypto)
