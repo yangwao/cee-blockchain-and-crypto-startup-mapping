@@ -18,7 +18,7 @@ central europe crypto startup mapping / list
 - coinbank.cz/
 
 ### digital
-- [cryptkit](https://www.crypkit.com/)
+- [crypkit](https://www.crypkit.com/)
 
 # Slovakia (Slovak Republic)
 - [Decent](https://decent.ch/) (content distribution blockchain)
