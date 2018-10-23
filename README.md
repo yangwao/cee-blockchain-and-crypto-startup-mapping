@@ -18,7 +18,7 @@ central europe crypto startup mapping / list
 - coinbank.cz/
 
 ### digital
-- [crypkit](https://www.crypkit.com/)
+- [crypkit](https://www.crypkit.com/) (portfolio tracking and analytics)
 
 # Slovakia (Slovak Republic)
 - [Decent](https://decent.ch/) (content distribution blockchain)
@@ -33,7 +33,7 @@ central europe crypto startup mapping / list
 - [Parelelna Polis](https://paralelnapolis.sk/)
 
 ### digital
-- [coinexplorer](https://coinexplorer.sk/)
+- [coinexplorer](https://coinexplorer.sk/) (education website)
 
 ### atm
 - [ventu](https://ventu.io/)
