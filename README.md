@@ -23,12 +23,12 @@ central europe crypto startup mapping / list
 # Slovakia (Slovak Republic)
 - [Decent](https://decent.ch/) (content distribution blockchain)
 - [SophiaTx](https://www.sophiatx.com/) (SAP blockchain)
-- [intellicagroup](https://intellicagroup.com/)
-- [Blockchain Slovakia](https://blockchainslovakia.sk) (non-profit, meetupy)
-- [biotron](https://biotron.io/)
+- [Treeti](https://treeti.com/) (netflix on blockchain)
+- [biotron](https://biotron.io/) (your data for sale)
 - [bitpanther](https://www.bitpanther.com/sk/) (exchange)
 
 ### coworks & communities
+- [Blockchain Slovakia](https://blockchainslovakia.sk) (non-profit, meetupy)
 - [Cowork Progressbar](https://cowork.progressbar.sk/#/)
 - [Parelelna Polis](https://paralelnapolis.sk/)
 
@@ -45,12 +45,14 @@ central europe crypto startup mapping / list
 - [bethereum](https://bethereum.com/)
 
 ### locals in foreign startups
-- district0x (matus lestan)
-- decentraland (michal takac)
+- district0x (Matus Lestan)
+- Decentraland (Michal Takac)
+- MakerDao (Lenka)
 
 ### dev studios
-- [blockUnison](https://blockunison.com/)
 - [01cryptohouse](https://www.01cryptohouse.com/)
+- [blockUnison](https://blockunison.com/)
+- [intellicagroup](https://intellicagroup.com/)
 
 # Austria 
 - [Bitpanda](https://www.bitpanda.com/en) (buy/sell crypto)
