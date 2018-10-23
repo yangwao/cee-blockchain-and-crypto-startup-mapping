@@ -33,7 +33,6 @@ central europe crypto startup mapping / list
 - [Bethereum] (https://www.bethereum.com/) (dapp)
 - [Koud] (http://koud.io/) (blockchain in supply chain)
 - [Alax](https://alax.io/)
-- [Eterbase] (https://www.eterbase.com/) (exchange)
 
 ### coworks & communities
 - [Blockchain Slovakia](https://blockchainslovakia.sk) (non-profit, meetupy & education)
