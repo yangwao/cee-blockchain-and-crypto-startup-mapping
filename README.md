@@ -1,21 +1,32 @@
 # cee-crypto-startup-mapping
 central europe crypto startup mapping / list
 
+- this should be community curated list of entities with notable contribution to cryptocurrency and blockchain ecosystem
+- pull request is welcome 🤗 
+
 # Czechia (Czech Republic)
-- Trezor.io (hw wallet)
-- coinmate.io (exchange)
-- nakamotoX (exchange)
-- chainanalysis (blockchain monitoring)
-- General Bytes (ATM)
-- bitcoinpay (BTC merchant brana)
-- simplecoin.cz (buy/sell crypto)
-- easycoin.cz (buy/sell/storage crypto, atms) - alebo wbtcb.com
-- slushpool (mining pool)
-- blockchainlegal.cz (legal consulting)
-- changelly (exchange API)
-- simpletax.cz (taxes CR) (Michal Hanych - aj pravnik)
-- bitperia.cz (info aggregator somewhat)
-- coinbank.cz/
+- [Trezor.io](https://trezor.io/) - hardware wallet
+- [coinmate.io](https://coinmate.io) (exchange)
+- [nakamotoX](https://nakamotox.com/) (exchange)
+- [chainanalysis](https://www.chainalysis.com/) (blockchain monitoring)
+- [General Bytes](https://www.generalbytes.com/) (ATM vendor)
+- [bitcoinpay](https://www.bitcoinpay.com) (Bitcoin merchant gateway)
+- [simplecoin.cz](https://exchange.simplecoin.eu/) (buy/sell crypto)
+- [easycoin.cz](https://www.easycoin.cz/) (buy/sell/storage crypto, atms) -  (wbtcb.com)
+- [slushpool](https://slushpool.com) (mining pool)
+- [blockchainlegal.cz](https://www.blockchainlegal.cz/) (legal consulting)
+- [changelly](https://changelly.com/) (exchange API)
+- [simpletax.cz](http://www.simpletax.cz/) (taxes CR) (Michal Hanych - also lawyer)
+- [bitperia.cz](https://bitperia.cz/) (info aggregator, resources)
+- [coinbank.cz](https://coinbank.cz/) (exchange)
+
+### coworks * communities 
+- [Paralelni Polis](https://www.paralelnipolis.cz/)
+- [Blockchain Hub Prague](https://www.blockchainhubprague.com/)
+
+### ico (HQ)
+- [Signals](https://signals.network/)
+- [Czech Republic by ICOBENCH](https://icobench.com/icos?page=1&filterCountry=Slovakia)
 
 ### digital
 - [crypkit](https://www.crypkit.com/) (portfolio tracking and analytics)
@@ -37,22 +48,30 @@ central europe crypto startup mapping / list
 
 ### atm
 - [ventu](https://ventu.io/)
-- [http://mojbitcoin.sk/](http://mojbitcoin.sk/) (atm)
+- [mojbitcoin.sk](http://mojbitcoin.sk/) (atm)
 - [cryptodiggers.eu](https://cryptodiggers.eu/) (atms)
 
 ### ico (HQ)
 - [alax](https://alax.io/)
 - [bethereum](https://bethereum.com/)
+- [Slovakia by ICOBENCH](https://icobench.com/icos?page=1&filterCountry=Slovakia)
 
 ### locals in foreign startups
 - district0x (Matus Lestan)
 - Decentraland (Michal Takac)
 - MakerDao (Lenka)
 
+### significant & loved-ones
+- [Matej Nemcek](https://hypersignal.xyz/)
+- [Ondrej Sarnecky](http://ondrejsarnecky.com/)
+
 ### dev studios
 - [01cryptohouse](https://www.01cryptohouse.com/)
 - [blockUnison](https://blockunison.com/)
 - [intellicagroup](https://intellicagroup.com/)
+
+### video recordings (mixed language)
+- [Blockchain - Digitálne zlato: Pravda alebo Fikcia?](https://youtu.be/Y-Kd8u5Rd9w)
 
 # Austria 
 - [Bitpanda](https://www.bitpanda.com/en) (buy/sell crypto)
