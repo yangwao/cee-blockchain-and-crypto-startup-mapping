@@ -1,5 +1,5 @@
-# cee-crypto-startup-mapping
-central europe crypto startup mapping / list
+# Central Europe Blockchain Crypto Startup Mapping
+central europe blockchain & crypto startup mapping / list / [motivation](http://www.electronicbeats.net/a-beginners-guide-to-the-decentralized-internet/)
 
 - this should be community curated list of entities with notable contribution to cryptocurrency and blockchain ecosystem
 - pull request is welcome 🤗 
