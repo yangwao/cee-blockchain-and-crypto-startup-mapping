@@ -19,6 +19,8 @@ central europe crypto startup mapping / list
 - xixoio.com (Crypto Banking and Tokenization platform)
 - veracityprotcol.org (Lifecycle of Things)
 
+### devstudios
+- [topmonks](https://www.topmonks.com/)
 
 ### digital
 - [crypkit](https://www.crypkit.com/) (portfolio tracking and analytics)
@@ -57,7 +59,6 @@ central europe crypto startup mapping / list
 - [01cryptohouse](https://www.01cryptohouse.com/)
 - [blockUnison](https://blockunison.com/)
 - [intellicagroup](https://intellicagroup.com/)
-- [topmonks] (https://www.topmonks.com/)
 
 # Austria 
 - [Bitpanda](https://www.bitpanda.com/en) (buy/sell crypto)
