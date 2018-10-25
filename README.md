@@ -29,9 +29,9 @@ central europe crypto startup mapping / list
 - [Treeti](https://treeti.com/) (netflix on blockchain)
 - [Biotron](https://biotron.io/) (your data for sale)
 - [Bitpanther](https://www.bitpanther.com/sk/) (exchange)
-- [Eterbase] (https://www.eterbase.com/) (exchange)
-- [Bethereum] (https://www.bethereum.com/) (dapp)
-- [Koud] (http://koud.io/) (blockchain in supply chain)
+- [Eterbase](https://www.eterbase.com/) (exchange)
+- [Bethereum](https://www.bethereum.com/) (dapp)
+- [Koud](http://koud.io/) (blockchain in supply chain)
 - [Alax](https://alax.io/)
 
 ### coworks & communities
