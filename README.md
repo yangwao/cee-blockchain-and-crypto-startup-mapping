@@ -19,6 +19,8 @@ central europe blockchain & crypto startup mapping / list / [motivation](http://
 - [simpletax.cz](http://www.simpletax.cz/) (taxes CR) (Michal Hanych - also lawyer)
 - [bitperia.cz](https://bitperia.cz/) (info aggregator, resources)
 - [coinbank.cz](https://coinbank.cz/) (exchange)
+- [xixoio.com](https://xixoio.com) (Crypto Banking and Tokenization platform)
+- [veracityprotcol.org](https://veracityprotcol.org) (Lifecycle of Things)
 
 ### coworks & communities 
 - [Paralelni Polis](https://www.paralelnipolis.cz/)
@@ -28,6 +30,9 @@ central europe blockchain & crypto startup mapping / list / [motivation](http://
 - [Signals](https://signals.network/)
 - [Czech Republic by ICOBENCH](https://icobench.com/icos?page=1&filterCountry=Slovakia)
 
+### devstudios
+- [topmonks](https://www.topmonks.com/)
+
 ### digital
 - [crypkit](https://www.crypkit.com/) (portfolio tracking and analytics)
 
@@ -35,13 +40,18 @@ central europe blockchain & crypto startup mapping / list / [motivation](http://
 - [Decent](https://decent.ch/) (content distribution blockchain)
 - [SophiaTx](https://www.sophiatx.com/) (SAP blockchain)
 - [Treeti](https://treeti.com/) (netflix on blockchain)
-- [biotron](https://biotron.io/) (your data for sale)
-- [bitpanther](https://www.bitpanther.com/sk/) (exchange)
+- [Biotron](https://biotron.io/) (your data for sale)
+- [Bitpanther](https://www.bitpanther.com/sk/) (exchange)
+- [Eterbase](https://www.eterbase.com/) (exchange)
+- [Bethereum](https://www.bethereum.com/) (dapp)
+- [Koud](http://koud.io/) (blockchain in supply chain)
+- [Alax](https://alax.io/) (egames)
 
 ### coworks & communities
-- [Blockchain Slovakia](https://blockchainslovakia.sk) (non-profit, meetupy)
+- [Blockchain Slovakia](https://blockchainslovakia.sk) (non-profit, meetupy & education)
 - [Cowork Progressbar](https://cowork.progressbar.sk/#/)
 - [Parelelna Polis](https://paralelnapolis.sk/)
+- [Blockchain Republic](https://www.blockchainrepublic.cz/) (CZ non-profit)
 
 ### digital
 - [coinexplorer](https://coinexplorer.sk/) (education website)
@@ -52,8 +62,6 @@ central europe blockchain & crypto startup mapping / list / [motivation](http://
 - [cryptodiggers.eu](https://cryptodiggers.eu/) (atms)
 
 ### ico (HQ)
-- [alax](https://alax.io/)
-- [bethereum](https://bethereum.com/)
 - [Slovakia by ICOBENCH](https://icobench.com/icos?page=1&filterCountry=Slovakia)
 
 ### locals in foreign startups
