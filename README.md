@@ -20,7 +20,7 @@ central europe blockchain & crypto startup mapping / list / [motivation](http://
 - [bitperia.cz](https://bitperia.cz/) (info aggregator, resources)
 - [coinbank.cz](https://coinbank.cz/) (exchange)
 
-### coworks * communities 
+### coworks & communities 
 - [Paralelni Polis](https://www.paralelnipolis.cz/)
 - [Blockchain Hub Prague](https://www.blockchainhubprague.com/)
 
