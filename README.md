@@ -40,7 +40,7 @@ central europe crypto startup mapping / list
 - [Blockchain Slovakia](https://blockchainslovakia.sk) (non-profit, meetupy & education)
 - [Cowork Progressbar](https://cowork.progressbar.sk/#/)
 - [Parelelna Polis](https://paralelnapolis.sk/)
-- [Blockchain Republic] (https://www.blockchainrepublic.cz/) (CZ non-profit)
+- [Blockchain Republic](https://www.blockchainrepublic.cz/) (CZ non-profit)
 
 ### digital
 - [coinexplorer](https://coinexplorer.sk/) (education website)
