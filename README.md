@@ -37,6 +37,9 @@ central europe blockchain & crypto startup mapping / list / [motivation](http://
 ### digital
 - [crypkit](https://www.crypkit.com/) - portfolio tracking and analytics
 
+# Poland 
+- [Golem](https://golem.network)
+
 # Slovakia (Slovak Republic)
 - [Decent](https://decent.ch/) - content distribution blockchain
 - [SophiaTx](https://www.sophiatx.com/) - SAP blockchain
