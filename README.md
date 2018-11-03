@@ -80,6 +80,7 @@ central europe blockchain & crypto startup mapping / list / [motivation](http://
 - [01cryptohouse](https://www.01cryptohouse.com/)
 - [blockUnison](https://blockunison.com/)
 - [intellicagroup](https://intellicagroup.com/)
+- [vacuumlabs](https://vacuumlabs.com/) - Cardano wallet
 
 ### video recordings (mixed language)
 - [Blockchain - Digitálne zlato: Pravda alebo Fikcia?](https://youtu.be/Y-Kd8u5Rd9w)
